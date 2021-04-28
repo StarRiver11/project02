@@ -19,11 +19,11 @@ class Fu{
     }
     public void method(){
 
-    }
+    }r
 }
 
 class Zi extends Fu{
-    public void show() trhows ArithmeticException{
+    public void show() thows ArithmeticException{
 
     }
 }
